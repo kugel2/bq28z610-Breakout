@@ -1,4 +1,4 @@
-update=Dienstag, 04. April 2017 'u25' 23:25:43
+update=Dienstag, 04. April 2017 'u34' 23:34:26
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=/Users/florian/Documents/kicad libraries/symbols
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=bq25071
+LibName31=lmr16006
+LibName32=lt3465
+LibName33=tps63001
+LibName34=bq28z610
