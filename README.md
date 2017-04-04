@@ -1,2 +1,6 @@
 # bq28z610-Breakout
-bq28z610 battery gas gauge and protection
+Breakoutboard for bq28z610 battery gas gauge and protection
+
+**_Warning_: this board is not finished**
+
+**_Warning_: this board is not tested**
